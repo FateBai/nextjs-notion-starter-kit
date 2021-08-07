@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Bug of Fate',
-  domain: 'bugoffate',
+  domain: 'https://www.notion.so/phh95/78fc5a4b88d74b0e824e29407e9f1ec1',
   author: 'BRB',
 
   // open graph metadata (optional)
