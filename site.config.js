@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Bug of Fate',
-  domain: 'bugoffate.it',
+  domain: '',
   author: 'BRB',
 
   // open graph metadata (optional)
